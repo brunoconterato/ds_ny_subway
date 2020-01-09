@@ -19,8 +19,10 @@ Além disso, você será exposto a alguns dos dados das bibliotecas de Python ma
 ### O que vou aprender?
 Você será exposto a - e aprenderá - habilidades de ciência de dados fundamentais, como:
 
-Os dados de disputas
-Estatística aplicada e aprendizagem de máquina
-MapReduce
-Por que isso é importante para a minha carreira?
+* Os dados de disputas
+* Estatística aplicada e aprendizagem de máquina
+* MapReduce
+
+</br></br>
+### Por que isso é importante para a minha carreira?
 Ao concluir este projeto, você terá todas as habilidades necessárias para ser um analista de dados. Além disso, poderá adicionar este projeto a seu currículo, o que pode ajudá-lo a impressionar os recrutadores e gerentes de contratação.
